@@ -60,21 +60,21 @@ In many settings, a logic model is used simply to map expectations (what we do a
 
 This distinction matters because causal impact claims require stronger justification (credible mechanisms, assumptions, and ideally evidence or an evaluation design).
 
-### Why Use Logic Models?
+### Why use a Logic Model?
 
 Logic models help program managers and stakeholders:
 
 - **Clarify program design** - Forces clear thinking about how change happens
 - **Communicate with stakeholders** - Provides a shared understanding of the program
-- **Guide evaluation** - Identifies what to measure and when
 - **Improve programs** - Reveals assumptions that can be tested
+- **Guide evaluation** - Identifies what to measure and when
 - **Support accountability** - Shows the connection between investments and results
 
 ---
 
 ## Core Components of a Logic Model
 
-A standard logic model flows from left to right and includes five main components:
+A standard logic model flows from left to right and includes four main components:
 
 ### 1. Inputs (Resources)
 
@@ -140,9 +140,9 @@ Changes in conditions, status, or well-being that the program ultimately aims to
 
 **Key question:** What changes do we expect?
 
-### 5. Impact
+### Optional: Impact
 
-Impact refers to the fundamental, lasting change in organizations, communities, or systems. This is the ultimate goal the program contributes toward, often shared with other programs and external factors.
+Some logic models also include a category for Impact, which represents the broader, systemic changes that occur over a longer time horizon.
 
 - _Example: A healthier population with lower healthcare costs_
 
@@ -600,7 +600,7 @@ Hover over each component below to learn more about its role in the Youth Mentor
 .outcomes-long .lm-header { background: #dc3545; }
 .outcomes-long .lm-box { background: #f8d7da; border: 2px solid #dc3545; border-top: none; }
 
-/* Tooltip styles */
+/_ Tooltip styles _/
 .lm-tooltip {
 display: none;
 position: absolute;
@@ -636,7 +636,7 @@ margin-bottom: 6px;
 font-size: 14px;
 }
 
-/* Flow label */
+/_ Flow label _/
 .flow-label {
 text-align: center;
 color: #6c757d;
@@ -753,7 +753,7 @@ font-style: italic;
 
 ---
 
-## Common Logic Model Formats
+## Common Logic Model Formats - maybe, I dunno, maybe just delete
 
 ### Basic Linear Model
 
@@ -827,9 +827,7 @@ Test your understanding with these reflection questions:
 
 ## Additional Resources
 
-- W.K. Kellogg Foundation Logic Model Development Guide
-- CDC Program Evaluation Framework
-- University of Wisconsin-Extension Program Development and Evaluation
+- TBD
 
 ---
 

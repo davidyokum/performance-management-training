@@ -25,19 +25,24 @@ This training is designed for:
 ## Table of Contents
 
 ### Module 1: Logic Models
+
 [Introduction to Logic Models](modules/logic-models.html) - Learn how to create visual representations that connect program resources, activities, and outcomes.
 
 ### Module 2: Performance Measures
-*Coming soon* - Developing meaningful metrics to track program success.
+
+_Coming soon_ - Developing meaningful metrics to track program success.
 
 ### Module 3: Data Collection
-*Coming soon* - Strategies for gathering reliable performance information.
+
+_Coming soon_ - Strategies for gathering reliable performance information.
 
 ### Module 4: Analysis and Reporting
-*Coming soon* - Turning data into actionable insights.
+
+_Coming soon_ - Turning data into actionable insights.
 
 ### Module 5: Continuous Improvement
-*Coming soon* - Using performance information to enhance programs.
+
+_Coming soon_ - Using performance information to enhance programs.
 
 ---
 
