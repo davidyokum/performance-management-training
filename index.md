@@ -25,7 +25,7 @@ This training is designed for:
 ## Table of Contents
 
 ### Module 1: Logic Models
-[Introduction to Logic Models](modules/logic-models.md) - Learn how to create visual representations that connect program resources, activities, and outcomes.
+[Introduction to Logic Models](modules/logic-models.html) - Learn how to create visual representations that connect program resources, activities, and outcomes.
 
 ### Module 2: Performance Measures
 *Coming soon* - Developing meaningful metrics to track program success.
@@ -41,4 +41,4 @@ This training is designed for:
 
 ---
 
-Ready to begin? Start with [Module 1: Logic Models](modules/logic-models.md).
+Ready to begin? Start with [Module 1: Logic Models](modules/logic-models.html).
